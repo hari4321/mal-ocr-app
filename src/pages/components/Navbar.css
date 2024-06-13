@@ -1,0 +1,30 @@
+.navbar {
+    padding: 1% 2%;
+    background-color: #333333;
+}
+
+.nav-item {
+    padding: 0 15px;
+}
+
+.navbar-brand, .nav-link{
+    color: white;
+}
+
+.navbar-brand{
+    cursor:pointer;
+    font-weight: 500;
+}
+
+.nav-link:hover{
+    color: #A3FFD6;
+}
+
+.navbar-brand:hover{
+    color: white;
+
+}
+
+.navbar-toggler-icon{
+    background-color: white;
+}
