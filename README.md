@@ -1,0 +1,1 @@
+# mal-ocr-app
